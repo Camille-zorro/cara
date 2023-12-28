@@ -212,7 +212,7 @@ p {
 }
 
 #close {
-  display: none;
+    display: none;
 }
 
 
@@ -586,9 +586,9 @@ footer h4 {
     margin-bottom: 20px;
 }
 
-footer .logo {
+footer p {
     font-size: 13px;
-    margin-bottom: 0 0 8px 0;
+    margin: 0 0 8px 0;
 }
 
 footer a {
@@ -636,7 +636,7 @@ footer .copyright {
 
 /* Media Query */
 
-@media (max-width:799px) {
+@media (max-width: 799px) {
     .section-p1 {
         padding: 40px 40px;
       }
